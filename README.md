@@ -5,20 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Java+Developer;Python+Enthusiast;Web+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <img src="https://github-readme-stats.vercel.app/api?username=tooplick&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="tooplick's GitHub Stats" width="100%" />
-      </td>
-      <td width="35%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooplick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages"  width="100%" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tooplick&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="tooplick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooplick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages" />
+</div>
 
 
 ## 📈 Contribution Activity
@@ -67,3 +59,5 @@
 </p>
 
 <br>
+
+

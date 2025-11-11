@@ -45,7 +45,7 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
 
   <a href="mailto:id6543156918@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -59,5 +59,4 @@
 </p>
 
 <br>
-
 

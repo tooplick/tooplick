@@ -5,26 +5,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Java+Developer;Python+Enthusiast;Web+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<br>
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <table>
     <tr>
       <td width="60%">
-        <img src="https://github-readme-stats.vercel.app/api?username=tooplick&show_icons=true&theme=radical" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=tooplick&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="tooplick's GitHub Stats" width="100%" />
       </td>
       <td width="35%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooplick&layout=compact&theme=radical&hide=html,css" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooplick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages"  width="100%" />
       </td>
     </tr>
   </table>
 </p>
 
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tooplick&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff">
+    <img alt="tooplick's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tooplick&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff">
+  </picture>
+</div>
 <br>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Learning Languages
@@ -44,6 +50,7 @@
 
 <br>
 
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -59,12 +66,4 @@
   </a>
 </p>
 
-<br>
-
-## 💼 Currently Working On
-
-- 🔭 Developing full-stack applications with Java Spring and jsp
-- 🌱 Exploring Python  learning
-- 💼 Building responsive web interfaces with modern JavaScript
-- 🚀 Learning new technologies and best practices
 <br>

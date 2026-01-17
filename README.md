@@ -8,8 +8,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tooplick&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="tooplick's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooplick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tooplick&theme=tokyonight" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tooplick&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tooplick&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
@@ -26,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Learning Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,18 +48,10 @@
 
 ## 📫 Connect With Me
 
-<p>
-
-  <a href="mailto:id6543156918@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://qm.qq.com/q/VoWvBUfYEU">
-    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tooplick">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="mailto:id6543156918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://qm.qq.com/q/VoWvBUfYEU"><img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white"/></a>
+  <a href="https://github.com/tooplick"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br>
-

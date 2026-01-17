@@ -7,9 +7,7 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tooplick&theme=tokyonight" alt="Profile Details" />
-</div>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tooplick&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tooplick&theme=tokyonight" alt="Top Languages" />
@@ -19,10 +17,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tooplick&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff">
-    <img alt="tooplick's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tooplick&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tooplick&theme=tokyonight" alt="Profile Details" />
 </div>
 <br>
 
@@ -48,7 +43,7 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
   <a href="mailto:id6543156918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://qm.qq.com/q/VoWvBUfYEU"><img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white"/></a>
   <a href="https://github.com/tooplick"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>

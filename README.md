@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="center" width="80%">
   <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tooplick&theme=tokyonight" alt="Stats" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tooplick&theme=tokyonight" alt="Top Languages" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tooplick&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Activity

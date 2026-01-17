@@ -6,11 +6,9 @@
 </p>
 
 ## 📊 GitHub Statistics
-
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tooplick&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tooplick&theme=tokyonight" alt="Top Languages" />
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tooplick&theme=tokyonight" alt="Stats" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tooplick&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
